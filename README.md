@@ -11,11 +11,7 @@
 
 - 🤝 I’m looking for help with [flutter_getx_boilerplate](https://github.com/KevinZhang19870314/flutter_getx_boilerplate)
 
-- 👨‍💻 All of my projects are available at [https://github.com/KevinZhang19870314](https://github.com/KevinZhang19870314)
-
 - 📝 I regularly write articles on [https://juejin.cn/user/1609340755129784](https://juejin.cn/user/1609340755129784)
-
-- 💬 Ask me about **Angular, Vue, Flutter, RxJS**
 
 - 📫 How to reach me **kevinzhang19870314@gmail.com**
 
