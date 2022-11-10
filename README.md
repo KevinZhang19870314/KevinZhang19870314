@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://juejin.cn/user/1609340755129784](https://juejin.cn/user/1609340755129784)
 
-- 📝 I am translated the Discover three.js in Chinese, check it out! [探索 three.js](https://discoverthreejs.com/zh/)
+- 📝 I translated the Discover three.js in Chinese, check it out! [探索 three.js](https://discoverthreejs.com/zh/)
 
 - 📫 How to reach me **kevinzhang19870314@gmail.com**
 
