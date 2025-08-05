@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinzhang19870314&label=Profile%20views&color=0e75b6&style=flat" alt="kevinzhang19870314" /> </p>
 
-- 🔭 I’m currently working on [shadowai](https://github.com/KevinZhang19870314/shadowai)
+- 🔭 I’m currently working on [ShadowAI](https://github.com/KevinZhang19870314/shadowai)
 
 - 🌱 I’m currently learning **AI, Langchain, Agno, 人工智能，Prompt engineering** etc
 
