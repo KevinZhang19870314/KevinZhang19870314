@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI, Langchain, Agno, 人工智能，Prompt engineering** etc
 
-- 👯 I’m looking to collaborate on [shadowai](https://github.com/KevinZhang19870314/shadowai)
+- 👯 I’m looking to collaborate on [ShadowAI](https://github.com/KevinZhang19870314/shadowai)
 
 - 🤝 I’m looking for help with [flutter_getx_boilerplate](https://github.com/KevinZhang19870314/flutter_getx_boilerplate)
 
